@@ -129,7 +129,12 @@
 	# open links in new tab in private mode:
 	# 	start UCBrowser -new-tab "https://youtube.com/basirsharif?sub_confirmation=1" -incognito
 	# 
-	# 
+	# Screenshots:
+	<img src="https://raw.githubusercontent.com/basirsharif/WatchNow/main/WatchNow/images/001.jpg" />
+	<img src="https://raw.githubusercontent.com/basirsharif/WatchNow/main/WatchNow/images/002.jpg" />
+	<img src="https://raw.githubusercontent.com/basirsharif/WatchNow/main/WatchNow/images/003.jpg" />
+	<img src="https://raw.githubusercontent.com/basirsharif/WatchNow/main/WatchNow/images/004.jpg" />
+	
 	------------------------------------------------------------------------
 	# Developed by @Basirsharif
 	------------------------------------------------------------------------
